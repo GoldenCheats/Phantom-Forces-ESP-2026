@@ -100,6 +100,6 @@ end
 
 -- Add your scripts
 MakeBtn("MAIN ESP", 55, "https://raw.githubusercontent.com/GoldenCheats/Phantom-Forces-ESP-2026/refs/heads/main/main%20esp")
-MakeBtn("TRASH ESP", 100, "https://raw.githubusercontent.com/GoldenCheats/Phantom-Forces-ESP-2026/refs/heads/main/External%20ESP")
+MakeBtn("USE IF DIDNT WORK", 100, "https://raw.githubusercontent.com/GoldenCheats/Phantom-Forces-ESP-2026/refs/heads/main/External%20ESP")
 
 print("Spectrum UI Loaded with Close Button.")
